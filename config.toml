@@ -14,7 +14,7 @@ canonifyURLs = true
     site_description = "Pusat Informasi KPR Syariah Tanpa Bank"
     copyright  = "Copyright"
 #    avatar = "avatar.png"
-    logo = "logo.png"
+    logo = "logo-kpr.png"
     title_in_logo = true # set to true if you want the title along with the logo
     disable_mathjax = true # set to true to disable MathJax
 
