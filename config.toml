@@ -1,6 +1,6 @@
-baseURL = "https://elkareemah.com/"
-title = "AR27"
-subtitle = "Handphone Bekas, Murah, Berkualitas"
+baseURL = "https://kprhalal.com/"
+title = "KPR Halal"
+subtitle = "Pusat Informasi KPR Syariah Tanpa Bank"
 languageCode = "id"
 # preservetaxonomynames = true
 theme = "hugo-travelify-theme"
@@ -10,8 +10,8 @@ canonifyURLs = true
 
 [params]
     # Tell me who you are
-    author = "abdul"
-    site_description = "Handphone Bekas, Murah, Berkualitas"
+    author = "Ida"
+    site_description = "Pusat Informasi KPR Syariah Tanpa Bank"
     copyright  = "Copyright"
 #    avatar = "avatar.png"
     logo = "logo.png"
@@ -33,15 +33,15 @@ canonifyURLs = true
 # and "Tags" / "Categories" after them.
 
 
-# [[menu.main]]
-  #  name  = "About"
-  #  url   = "/about/"
-  #  weight = 10
+[[menu.main]]
+  name  = "Affiliate Marketer"
+  url   = "/affiliate-marketer/"
+  weight = 10
     
-# [[menu.main]]
-  #  name  = "contact"
-  #  url   = "/contact/"
-  #  weight = 20
+[[menu.main]]
+  name  = "Keunggulan KPR Halal"
+  url   = "/keunggulan/"
+  weight = 20
 
 # [[menu.main]]
   #  name  = "Contact2"
